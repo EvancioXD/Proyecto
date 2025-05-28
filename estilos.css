@@ -1,0 +1,51 @@
+.mibarra{
+    background-color: rgb(245, 234, 190);
+}
+.nav-link{
+    color:gray
+}
+.nav-link:hover{
+    color: darkorange !important;
+}
+.active{
+    color: darkorange !important;
+}
+.hero-content{
+    background: url("img/Cacahuateenchilado.webp") no-repeat center center/cover;
+    height: 100vh;
+    color:beige;
+    text-align: center;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+body{
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intro{
+    font-size: 20px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6em;
+}
+footer{
+    background-color: rgb(240, 240, 169);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+
+}
+
+.card-title{
+   color: darkolivegreen;
+}
+.container{
+    height: 450px;
+}
+.card-img-top{
+    height: 150px !important;
+}
